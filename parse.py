@@ -4,7 +4,7 @@ import re;
 import urllib;
 from indextank.client import ApiClient;
 indexapi = ApiClient('http://:7Xwa4xmDZZsyFG@d6nwu.api.indextank.com');
-index = indexapi.get_index('Techcrunch');
+index = indexapi.get_index('techcrunch');
 f = open("companies.txt");
 fw = open("intermediate.txt", 'w');
 i = 0;
@@ -32,5 +32,7 @@ for line in f :
         ext = re.compile('("number_of_employees"):(.*)');
         fw.write(ext.search(buf).group(1).strip('"') + ":" + ext.search(buf).group(2).strip(' "|",')+"\n");
         num_emp = ext.search(buf).group(2).strip(' "|",');
-        index.add_document(i, { 'text': companyid, "homepage_url":homepage, "category_code":category,  "number_of_employees":num_emp});
+        print category;
+        index.add_document(i, { 'text': category, "company":companyid, "homepage_url":homepage, "category_code":category,  "number_of_employees":num_emp});
+        i = i + 1;
 f.close();

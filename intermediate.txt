@@ -1,1 +1,677 @@
 Company:Wetpaint    homepage_url:http://wetpaint.com        category_code:web    number_of_employees:35
+Company:AdventNet    homepage_url:http://adventnet.com        category_code:enterprise    number_of_employees:600
+Company:Zoho    homepage_url:http://zoho.com        category_code:web    number_of_employees:1500
+Company:Digg    homepage_url:http://www.digg.com        category_code:web    number_of_employees:60
+Company:Facebook    homepage_url:http://facebook.com        category_code:web    number_of_employees:1000
+Company:Omnidrive    homepage_url:http://www.omnidrive.com        category_code:network_hosting    number_of_employees:null
+Company:Postini    homepage_url:http://postini.com        category_code:web    number_of_employees:null
+Company:Geni    homepage_url:http://www.geni.com        category_code:web    number_of_employees:18
+Company:Flektor    homepage_url:http://www.flektor.com        category_code:games_video    number_of_employees:null
+Company:Fox Interactive Media    homepage_url:http://www.newscorp.com        category_code:web    number_of_employees:null
+Company:Twitter    homepage_url:http://twitter.com        category_code:web    number_of_employees:140
+Company:StumbleUpon    homepage_url:http://www.stumbleupon.com/        category_code:web    number_of_employees:null
+Company:Gizmoz    homepage_url:http://gizmoz.com        category_code:web    number_of_employees:null
+Company:Scribd    homepage_url:http://scribd.com        category_code:web    number_of_employees:40
+Company:Slacker    homepage_url:http://www.slacker.com/        category_code:games_video    number_of_employees:null
+Company:Lala    homepage_url:http://www.lala.com        category_code:games_video    number_of_employees:null
+Company:Helio    homepage_url:http://www.helio.com        category_code:mobile    number_of_employees:null
+Company:eBay    homepage_url:http://ebay.com        category_code:web    number_of_employees:15000
+Company:Wis.dm    
+Company:MeetMoi    homepage_url:http://m.meetmoi.com/        category_code:mobile    number_of_employees:7
+Company:Joost    homepage_url:http://joost.com        category_code:games_video    number_of_employees:0
+Company:CBS    homepage_url:        category_code:web    number_of_employees:null
+Company:Viacom    homepage_url:http://www.viacom.com        category_code:web    number_of_employees:null
+Company:Babelgum    homepage_url:http://babelgum.com        category_code:games_video    number_of_employees:null
+Company:Plaxo    homepage_url:http://www.plaxo.com        category_code:web    number_of_employees:50
+Company:Cisco    homepage_url:http://www.cisco.com        category_code:network_hosting    number_of_employees:63000
+Company:Yahoo!    homepage_url:http://www.yahoo.com        category_code:web    number_of_employees:13600
+Company:Powerset    homepage_url:http://powerset.com        category_code:search    number_of_employees:60
+Company:Technorati    homepage_url:http://technorati.com        category_code:advertising    number_of_employees:35
+Company:SpinVox    homepage_url:http://www.spinvox.com/        category_code:software    number_of_employees:null
+Company:PayPerPost    homepage_url:http://payperpost.com/        category_code:software    number_of_employees:5
+Company:Clearspring    homepage_url:http://www.clearspring.com        category_code:advertising    number_of_employees:40
+Company:OpenX    homepage_url:http://www.openx.org/        category_code:advertising    number_of_employees:94
+Company:Mahalo    homepage_url:http://mahalo.com        category_code:search    number_of_employees:40
+Company:Sparter    homepage_url:http://sparter.com        category_code:games_video    number_of_employees:null
+Company:Kyte    homepage_url:http://www.kyte.com        category_code:games_video    number_of_employees:40
+Company:Video Passports    
+Company:Veoh    homepage_url:http://www.veoh.com        category_code:games_video    number_of_employees:null
+Company:Gannett    homepage_url:http://www.gannett.com        category_code:web    number_of_employees:null
+Company:Time Warner    
+Company:Thoof    homepage_url:http://thoof.com        category_code:web    number_of_employees:null
+Company:Jingle Networks    homepage_url:http://jinglenetworks.com        category_code:mobile    number_of_employees:35
+Company:Hearst Corporation    
+Company:Strands    homepage_url:http://strands.com        category_code:software    number_of_employees:150
+Company:Ning    homepage_url:http://www.ning.com        category_code:network_hosting    number_of_employees:100
+Company:Info    homepage_url:http://info.com        category_code:web    number_of_employees:null
+Company:JotSpot    homepage_url:http://www.jot.com/        category_code:web    number_of_employees:null
+Company:Meetup    homepage_url:http://www.meetup.com        category_code:web    number_of_employees:63
+Company:Mercora    homepage_url:http://www.mercora.com/        category_code:web    number_of_employees:null
+Company:NetRatings    homepage_url:http://www.nielsen-netratings.com/        category_code:web    number_of_employees:null
+Company:LifeLock    homepage_url:http://www.lifelock.com/        category_code:ecommerce    number_of_employees:null
+Company:Wesabe    homepage_url:http://wesabe.com        category_code:web    number_of_employees:null
+Company:Jangl    homepage_url:http://jangl.com        category_code:web    number_of_employees:22
+Company:Hyphen 8    
+Company:SmugMug    homepage_url:http://www.smugmug.com/        category_code:games_video    number_of_employees:62
+Company:Prosper    homepage_url:http://www.prosper.com/        category_code:web    number_of_employees:null
+Company:Google    homepage_url:http://google.com        category_code:search    number_of_employees:20000
+Company:Jajah    homepage_url:http://jajah.com        category_code:mobile    number_of_employees:110
+Company:Waterfall Mobile    
+Company:Skype    homepage_url:http://www.skype.com        category_code:mobile    number_of_employees:null
+Company:YouTube    homepage_url:http://www.youtube.com/        category_code:games_video    number_of_employees:null
+Company:Stickam    homepage_url:http://www.stickam.com        category_code:games_video    number_of_employees:35
+Company:blogTV    homepage_url:http://www.blogtv.com/        category_code:games_video    number_of_employees:null
+Company:Livestream    homepage_url:http://www.livestream.com/        category_code:games_video    number_of_employees:60
+Company:Justin.TV    
+Company:Ustream    homepage_url:http://www.ustream.com        category_code:games_video    number_of_employees:150
+Company:AdaptiveBlue    homepage_url:http://www.getglue.com        category_code:web    number_of_employees:15
+Company:Pando    homepage_url:http://www.pandonetworks.com        category_code:games_video    number_of_employees:23
+Company:Intel    homepage_url:http://www.intel.com/        category_code:hardware    number_of_employees:86300
+Company:GrandCentral     homepage_url:http://grandcentral.com        category_code:mobile    number_of_employees:3
+Company:Gizmo5    
+Company:Ikan    homepage_url:http://www.ikan.net        category_code:web    number_of_employees:5
+Company:delicious    homepage_url:http://delicious.com        category_code:web    number_of_employees:null
+Company:Adap.tv    
+Company:Topix    homepage_url:http://topix.net        category_code:web    number_of_employees:null
+Company:Tribune Company    
+Company:Jobster    homepage_url:http://jobster.com        category_code:search    number_of_employees:null
+Company:Pownce    homepage_url:http://pownce.com        category_code:web    number_of_employees:6
+Company:Revision3    homepage_url:http://www.revision3.com        category_code:games_video    number_of_employees:null
+Company:AllPeers    homepage_url:http://www.allpeers.com        category_code:web    number_of_employees:null
+Company:Aggregate Knowledge    
+Company:Sugar    
+Company:Zing Systems    
+Company:CriticalMetrics    homepage_url:http://criticalmetrics.com        category_code:web    number_of_employees:4
+Company:ZenZui    homepage_url:http://zenzui.com        category_code:mobile    number_of_employees:null
+Company:Spock    homepage_url:http://www.spock.com        category_code:search    number_of_employees:30
+Company:Wize    homepage_url:http://wize.com        category_code:ecommerce    number_of_employees:null
+Company:SodaHead    homepage_url:http://sodahead.com        category_code:web    number_of_employees:25
+Company:HOT or NOT    
+Company:CastTV    homepage_url:http://www.casttv.com        category_code:games_video    number_of_employees:0
+Company:NBC Universal    
+Company:fring    homepage_url:http://www.fring.com        category_code:mobile    number_of_employees:35
+Company:iSkoot    homepage_url:http://iskoot.com        category_code:mobile    number_of_employees:null
+Company:EQO    homepage_url:http://www.eqo.com/        category_code:mobile    number_of_employees:null
+Company:AllofMP3    homepage_url:http://allofmp3.com        category_code:games_video    number_of_employees:null
+Company:Amie Street    
+Company:There    homepage_url:http://www.there.com        category_code:games_video    number_of_employees:null
+Company:SellABand    homepage_url:http://sellaband.com        category_code:games_video    number_of_employees:null
+Company:BUZZ MEDIA    homepage_url:http://buzz-media.com        category_code:null    number_of_employees:null
+Company:Funny Or Die    homepage_url:http://funnyordie.com        category_code:games_video    number_of_employees:null
+Company:Steorn    homepage_url:http://steorn.com/        category_code:web    number_of_employees:null
+Company:Surphace    
+Company:iContact    homepage_url:http://icontact.com        category_code:web    number_of_employees:300
+Company:MeeVee    homepage_url:http://meevee.com        category_code:games_video    number_of_employees:null
+Company:blinkx    homepage_url:http://www.blinkx.com        category_code:games_video    number_of_employees:null
+Company:Mashery    homepage_url:http://www.mashery.com        category_code:software    number_of_employees:0
+Company:Buzzster!    
+Company:ClipBlast!    homepage_url:http://www.clipblast.com        category_code:web    number_of_employees:15
+Company:Zlio    homepage_url:http://zlio.com        category_code:ecommerce    number_of_employees:null
+Company:Yelp    homepage_url:http://yelp.com        category_code:search    number_of_employees:450
+Company:Jaiku    homepage_url:http://www.jaiku.com        category_code:mobile    number_of_employees:8
+Company:Tun3r    homepage_url:http://Tun3r.com        category_code:web    number_of_employees:null
+Company:Spotplex    homepage_url:http://www.spotplex.com        category_code:web    number_of_employees:3
+Company:Yapta    homepage_url:http://www.yapta.com        category_code:web    number_of_employees:null
+Company:PropertyMaps.com    
+Company:TripUp    homepage_url:http://www.tripup.com/        category_code:web    number_of_employees:null
+Company:Wakoopa    homepage_url:http://www.wakoopa.com        category_code:web    number_of_employees:8
+Company:Fleck    homepage_url:http://www.fleck.com        category_code:web    number_of_employees:3
+Company:Coghead    homepage_url:http://coghead.com        category_code:web    number_of_employees:21
+Company:Zamzar    homepage_url:http://www.zamzar.com        category_code:web    number_of_employees:2
+Company:Zooomr    homepage_url:http://www.zooomr.com/        category_code:web    number_of_employees:null
+Company:SideStep    homepage_url:http://www.sidestep.com/        category_code:web    number_of_employees:75
+Company:coRank    homepage_url:http://www.corank.com/        category_code:web    number_of_employees:0
+Company:Farecast    homepage_url:http://www.farecast.com        category_code:search    number_of_employees:26
+Company:Dailymotion    homepage_url:http://dailymotion.com        category_code:software    number_of_employees:120
+Company:KickApps    homepage_url:http://www.kickapps.com        category_code:enterprise    number_of_employees:72
+Company:RockYou    homepage_url:http://www.rockyou.com/        category_code:games_video    number_of_employees:106
+Company:Last.fm    
+Company:ConVerdge    homepage_url:http://www.converdge.com/        category_code:enterprise    number_of_employees:25
+Company:Haute Secure    
+Company:Pageflakes    homepage_url:http://www.pageflakes.com/        category_code:web    number_of_employees:20
+Company:Instructables    homepage_url:http://www.instructables.com        category_code:web    number_of_employees:null
+Company:Squid Labs    
+Company:Netvibes    homepage_url:http://www.netvibes.com/        category_code:web    number_of_employees:35
+Company:Swivel    homepage_url:http://www.swivel.com        category_code:search    number_of_employees:0
+Company:Slide    homepage_url:http://www.slide.com        category_code:public_relations    number_of_employees:64
+Company:Say Media    
+Company:Bebo    homepage_url:http://www.bebo.com        category_code:web    number_of_employees:null
+Company:Metaweb Technologies    
+Company:Flickr    homepage_url:http://www.flickr.com        category_code:web    number_of_employees:36
+Company:BabyCenter    homepage_url:http://babycenter.com        category_code:web    number_of_employees:null
+Company:PlaceBlogger    homepage_url:http://www.placeblogger.com/        category_code:web    number_of_employees:null
+Company:WeFi    homepage_url:http://www.wefi.com/        category_code:web    number_of_employees:null
+Company:Glam Media    
+Company:TripHub    homepage_url:http://www.triphub.com        category_code:web    number_of_employees:6
+Company:CrowdVine    homepage_url:http://www.crowdvine.com/        category_code:web    number_of_employees:0
+Company:Linden Lab    
+Company:Broadband Mechanics    
+Company:FeedBurner    homepage_url:http://www.feedburner.com/        category_code:web    number_of_employees:null
+Company:TheFind    homepage_url:http://www.thefind.com/        category_code:ecommerce    number_of_employees:null
+Company:TVtrip    homepage_url:http://www.TVtrip.com        category_code:web    number_of_employees:null
+Company:Zazzle    homepage_url:http://zazzle.com        category_code:ecommerce    number_of_employees:null
+Company:Dogster    homepage_url:http://dogster.com        category_code:web    number_of_employees:null
+Company:Pandora Media    
+Company:MOO.COM    
+Company:Cafepress    homepage_url:http://www.cafepress.com        category_code:web    number_of_employees:300
+Company:PBworks    homepage_url:http://www.pbworks.com        category_code:enterprise    number_of_employees:25
+Company:Groupsite    
+Company:Sway    homepage_url:http://www.swayonline.com        category_code:advertising    number_of_employees:null
+Company:CornerWorld    homepage_url:http://www.cornerworld.com        category_code:public_relations    number_of_employees:null
+Company:Seeking Alpha    
+Company:adBrite    homepage_url:http://adbrite.com        category_code:advertising    number_of_employees:70
+Company:WatZatSong    homepage_url:http://www.watzatsong.com        category_code:web    number_of_employees:3
+Company:Loomia    homepage_url:http://www.loomia.com/        category_code:web    number_of_employees:null
+Company:Meebo    homepage_url:http://www.meebo.com/        category_code:web    number_of_employees:180
+Company:Eventbrite    homepage_url:http://www.eventbrite.com        category_code:web    number_of_employees:100
+Company:Newsvine    homepage_url:http://www.newsvine.com/        category_code:web    number_of_employees:8
+Company:LinkedIn    homepage_url:http://www.linkedin.com        category_code:network_hosting    number_of_employees:1000
+Company:FlickIM    homepage_url:http://www.flickim.com/        category_code:mobile    number_of_employees:null
+Company:Jamendo    homepage_url:http://www.jamendo.com/        category_code:other    number_of_employees:20
+Company:Gotuit    
+Company:InGrid    homepage_url:http://www.ingridhome.com        category_code:web    number_of_employees:null
+Company:Terabitz    homepage_url:http://www.terabitz.com        category_code:web    number_of_employees:12
+Company:Healthline Networks    
+Company:Box.net    
+Company:iLike    homepage_url:http://ilike.com        category_code:games_video    number_of_employees:28
+Company:Ticketmaster    homepage_url:http://www.ticketmaster.com/        category_code:web    number_of_employees:null
+Company:Cuts    homepage_url:http://www.cuts.com/        category_code:web    number_of_employees:6
+Company:Carbonite    
+Company:Conduit    homepage_url:http://www.conduit.com        category_code:network_hosting    number_of_employees:null
+Company:Edgeio    homepage_url:http://www.edgeio.com        category_code:ecommerce    number_of_employees:null
+Company:Spot Runner    
+Company:Kaboodle    homepage_url:http://www.kaboodle.com        category_code:ecommerce    number_of_employees:null
+Company:Giga Omni Media    homepage_url:http://www.gigaomnimedia.com/        category_code:web    number_of_employees:41
+Company:Redfin    homepage_url:http://redfin.com        category_code:web    number_of_employees:100
+Company:Visible Path    
+Company:Wink    homepage_url:http://Wink.com        category_code:search    number_of_employees:null
+Company:Go2Web20    homepage_url:http://www.go2web20.net/        category_code:web    number_of_employees:0
+Company:coComment    
+Company:Seesmic    homepage_url:http://seesmic.com        category_code:web    number_of_employees:13
+Company:TechnologyGuide    homepage_url:http://www.technologyguide.com/        category_code:web    number_of_employees:10
+Company:Hotelicopter    homepage_url:http://www.hotelicopter.com        category_code:web    number_of_employees:15
+Company:Zvents    homepage_url:http://www.zvents.com        category_code:web    number_of_employees:55
+Company:MotionDSP    homepage_url:http://www.motiondsp.com/        category_code:public_relations    number_of_employees:null
+Company:Techmeme    homepage_url:http://techmeme.com        category_code:web    number_of_employees:3
+Company:Eventful    homepage_url:http://eventful.com        category_code:search    number_of_employees:35
+Company:RegOnline    homepage_url:http://www.regonline.com        category_code:web    number_of_employees:null
+Company:Oodle    homepage_url:http://www.oodle.com        category_code:web    number_of_employees:null
+Company:oDesk    homepage_url:http://www.odesk.com        category_code:web    number_of_employees:null
+Company:Simply Hired    homepage_url:http://Simplyhired.com        category_code:search    number_of_employees:null
+Company:ooma    homepage_url:http://www.ooma.com        category_code:public_relations    number_of_employees:47
+Company:Scripps Networks    
+Company:Cofoundr    homepage_url:http://www.cofoundr.com        category_code:network_hosting    number_of_employees:0
+Company:Ujogo    homepage_url:http://www.ujogo.com        category_code:web    number_of_employees:6
+Company:Recipezaar    homepage_url:http://www.recipezaar.com        category_code:web    number_of_employees:5
+Company:Gumiyo    homepage_url:http://www.gumiyo.com        category_code:web    number_of_employees:0
+Company:stylediary    homepage_url:http://www.stylediary.net        category_code:web    number_of_employees:0
+Company:ictv    homepage_url:http://www.ictv.com        category_code:web    number_of_employees:80
+Company:GoingOn    homepage_url:http://www.goingon.com        category_code:enterprise    number_of_employees:10
+Company:Flixster    homepage_url:http://www.flixster.com        category_code:web    number_of_employees:17
+Company:Vast    homepage_url:http://vast.com        category_code:ecommerce    number_of_employees:null
+Company:MyPublicInfo    homepage_url:http://www.mypublicinfo.com        category_code:web    number_of_employees:7
+Company:Piczo    homepage_url:http://www.piczo.com        category_code:network_hosting    number_of_employees:null
+Company:Checkster    homepage_url:http://www.checkster.com        category_code:web    number_of_employees:0
+Company:Bubble Guru    
+Company:revlayer    homepage_url:http://revlayer.com        category_code:advertising    number_of_employees:null
+Company:SK Telecom    
+Company:Cyworld    homepage_url:http://us.cyworld.com        category_code:web    number_of_employees:null
+Company:Photobox    homepage_url:http://www.photobox.com        category_code:web    number_of_employees:null
+Company:Parakey    homepage_url:http://www.parakey.com        category_code:web    number_of_employees:2
+Company:Spreadshirt    homepage_url:http://www.spreadshirt.com        category_code:advertising    number_of_employees:230
+Company:Socialtext    homepage_url:http://www.socialtext.com        category_code:enterprise    number_of_employees:50
+Company:Bazaarvoice    homepage_url:http://www.bazaarvoice.com/        category_code:advertising    number_of_employees:600
+Company:IceRocket    homepage_url:http://www.icerocket.com        category_code:search    number_of_employees:null
+Company:spigit    homepage_url:http://spigit.com        category_code:web    number_of_employees:46
+Company:barablu    homepage_url:http://www.barablu.com        category_code:mobile    number_of_employees:null
+Company:PowerReviews    homepage_url:http://www.powerreviews.com/        category_code:software    number_of_employees:120
+Company:ConnectMeAnywhere    homepage_url:http://www.connectmeanywhere.com        category_code:web    number_of_employees:null
+Company:LiveWorld    homepage_url:http://www.liveworld.com/        category_code:web    number_of_employees:75
+Company:Ohloh    homepage_url:http://www.ohloh.net        category_code:web    number_of_employees:4
+Company:hi5    homepage_url:http://hi5.com        category_code:games_video    number_of_employees:100
+Company:Clipperz    homepage_url:http://www.clipperz.com        category_code:web    number_of_employees:2
+Company:Tagged    homepage_url:http://www.tagged.com/        category_code:web    number_of_employees:38
+Company:ScanScout    homepage_url:http://www.scanscout.com        category_code:advertising    number_of_employees:40
+Company:37signals    homepage_url:http://37signals.com/        category_code:public_relations    number_of_employees:12
+Company:Nintendo    homepage_url:http://nintendo.com        category_code:games_video    number_of_employees:null
+Company:Indeed    homepage_url:http://www.indeed.com        category_code:web    number_of_employees:null
+Company:New York Times    
+Company:Jaxtr    homepage_url:http://www.jaxtr.com        category_code:mobile    number_of_employees:30
+Company:Action Engine    
+Company:Cerado    homepage_url:http://www.cerado.com/        category_code:web    number_of_employees:null
+Company:NetSuite    homepage_url:http://www.netsuite.com        category_code:enterprise    number_of_employees:603
+Company:Myfacepage    
+Company:ONEsite    homepage_url:http://www.onesite.com/        category_code:advertising    number_of_employees:50
+Company:introNetworks    homepage_url:http://www.intronetworks.com/        category_code:web    number_of_employees:11
+Company:Kwiqq    homepage_url:http://www.kwiqq.com/        category_code:web    number_of_employees:10
+Company:Leverage Software    
+Company:Lithium Technologies    
+Company:Dabble DB    
+Company:Going    homepage_url:http://www.going.com        category_code:web    number_of_employees:null
+Company:WikiYou    homepage_url:http://www.wikiyou.com        category_code:search    number_of_employees:11
+Company:Genius.com    
+Company:Wallhogs    homepage_url:http://wallhogs.com        category_code:public_relations    number_of_employees:52
+Company:Dial Directions    
+Company:Respectance    homepage_url:http://www.respectance.com        category_code:web    number_of_employees:null
+Company:Curse    homepage_url:http://www.curse.com/        category_code:web    number_of_employees:35
+Company:Jaman    homepage_url:http://www.jaman.com        category_code:games_video    number_of_employees:null
+Company:GoLightly    homepage_url:http://www.golightly.com/        category_code:software    number_of_employees:null
+Company:The Real Time Matrix    
+Company:Velvet Puffin    
+Company:eBuddy    homepage_url:http://www.ebuddy.com/        category_code:mobile    number_of_employees:60
+Company:DeliveryEdge    
+Company:DZOIC    homepage_url:http://www.dzoic.com/        category_code:web    number_of_employees:null
+Company:Grockit    homepage_url:http://grockit.com        category_code:games_video    number_of_employees:15
+Company:PeerMe    homepage_url:http://Peerme.com        category_code:games_video    number_of_employees:null
+Company:Kiptronic    homepage_url:http://www.kiptronic.com        category_code:advertising    number_of_employees:20
+Company:Adobe Systems    homepage_url:http://www.adobe.com/        category_code:software    number_of_employees:7173
+Company:Real Time Matrix    
+Company:Zenfolio    homepage_url:http://www.zenfolio.com        category_code:network_hosting    number_of_employees:null
+Company:CollegeWikis    homepage_url:http://www.collegewikis.com        category_code:web    number_of_employees:7
+Company:King.com    
+Company:FeVote    homepage_url:http://www.fevote.com/        category_code:web    number_of_employees:1
+Company:Vuze    homepage_url:http://vuze.com        category_code:games_video    number_of_employees:20
+Company:JumpBox    homepage_url:http://www.jumpbox.com        category_code:software    number_of_employees:5
+Company:Phonezoo    homepage_url:http://www.phonezoo.com        category_code:web    number_of_employees:null
+Company:Droplet Technology    
+Company:LongJump    homepage_url:http://longjump.com        category_code:enterprise    number_of_employees:30
+Company:Relationals    homepage_url:http://relationals.com        category_code:web    number_of_employees:null
+Company:Wishpot    homepage_url:http://www.wishpot.com        category_code:ecommerce    number_of_employees:10
+Company:ProfileBuilder    homepage_url:http://www.profilebuilder.com/        category_code:public_relations    number_of_employees:null
+Company:DOmedia    homepage_url:http://domedia.com/        category_code:advertising    number_of_employees:null
+Company:Truemors    homepage_url:http://truemors.com        category_code:web    number_of_employees:null
+Company:Nononina    homepage_url:http://www.truemors.com        category_code:web    number_of_employees:null
+Company:PodTech    homepage_url:http://Podtech.net        category_code:games_video    number_of_employees:null
+Company:NowPublic    homepage_url:http://www.nowpublic.com        category_code:web    number_of_employees:null
+Company:PayScale    homepage_url:http://www.payscale.com        category_code:web    number_of_employees:65
+Company:Crackle    homepage_url:http://www.crackle.com        category_code:games_video    number_of_employees:null
+Company:Sony    homepage_url:http://www.sony.com        category_code:hardware    number_of_employees:180500
+Company:National Banana    
+Company:Clipmarks    homepage_url:http://www.clipmarks.com        category_code:web    number_of_employees:null
+Company:Forbes    homepage_url:http://www.forbes.com        category_code:web    number_of_employees:null
+Company:truphone    homepage_url:http://www.truphone.com        category_code:mobile    number_of_employees:130
+Company:Software Cellular Network    
+Company:Boonex    homepage_url:http://www.boonex.com        category_code:software    number_of_employees:16
+Company:Hotswap    homepage_url:http://www.hotswap.com        category_code:ecommerce    number_of_employees:null
+Company:IntenseDebate    homepage_url:http://intensedebate.com        category_code:web    number_of_employees:4
+Company:Lotame Solutions     
+Company:Reddit    homepage_url:http://reddit.com/        category_code:web    number_of_employees:null
+Company:Rebtel    homepage_url:http://www.rebtel.com        category_code:mobile    number_of_employees:30
+Company:Wikia    homepage_url:http://www.wikia.com        category_code:web    number_of_employees:null
+Company:Amazon    homepage_url:http://amazon.com/        category_code:ecommerce    number_of_employees:null
+Company:Cond\u00e9 Nast    
+Company:BuddyTV    homepage_url:http://buddytv.com        category_code:games_video    number_of_employees:14
+Company:Retrevo    homepage_url:http://retrevo.com        category_code:public_relations    number_of_employees:null
+Company:Buxfer    homepage_url:http://www.buxfer.com        category_code:web    number_of_employees:4
+Company:boo-box    homepage_url:http://boo-box.com        category_code:advertising    number_of_employees:20
+Company:Qualcomm    homepage_url:http://www.qualcomm.com        category_code:public_relations    number_of_employees:null
+Company:SplashCast    homepage_url:http://www.splashcast.net/        category_code:advertising    number_of_employees:8
+Company:Brightcove    homepage_url:http://www.brightcove.com        category_code:games_video    number_of_employees:220
+Company:YouSendIt    homepage_url:http://www.yousendit.com        category_code:web    number_of_employees:0
+Company:Nimbuzz    homepage_url:http://www.nimbuzz.com        category_code:public_relations    number_of_employees:140
+Company:Tangler    homepage_url:http://www.tangler.com        category_code:web    number_of_employees:null
+Company:TextPayMe    homepage_url:http://www.textpayme.com        category_code:web    number_of_employees:null
+Company:obopay    homepage_url:http://obopay.com        category_code:mobile    number_of_employees:null
+Company:KushCash    homepage_url:http://www.kushcash.com        category_code:mobile    number_of_employees:null
+Company:BillMonk    homepage_url:http://www.billmonk.com        category_code:web    number_of_employees:null
+Company:PayPal    homepage_url:https://www.paypal.com        category_code:ecommerce    number_of_employees:null
+Company:TalkPlus    homepage_url:http://www.talkplus.com        category_code:web    number_of_employees:null
+Company:Vudu    homepage_url:http://Vudu.com        category_code:hardware    number_of_employees:85
+Company:Associated Content    
+Company:MeeMix    homepage_url:http://www.meemix.biz        category_code:web    number_of_employees:9
+Company:Blogtronix    homepage_url:http://www.blogtronix.com        category_code:enterprise    number_of_employees:30
+Company:Outside.in    
+Company:Citizenbay    homepage_url:http://www.citizenbay.com        category_code:web    number_of_employees:null
+Company:Club Penguin    
+Company:The Walt Disney Company    homepage_url:http://jobs.disney.corp.go.com/        category_code:other    number_of_employees:25000
+Company:Alstrasoft    homepage_url:http://www.alstrasoft.com/        category_code:software    number_of_employees:4
+Company:PermissionTV    homepage_url:http://www.permissiontv.com        category_code:games_video    number_of_employees:null
+Company:WebbAlert    homepage_url:http://www.webbalert.com/        category_code:games_video    number_of_employees:null
+Company:Rocketboom    homepage_url:http://www.rocketboom.com        category_code:web    number_of_employees:null
+Company:WallStrip    homepage_url:http://wallstrip.com        category_code:games_video    number_of_employees:null
+Company:Insider Pages    
+Company:Citysearch    homepage_url:http://www.citysearch.com        category_code:web    number_of_employees:null
+Company:IAC    homepage_url:http://www.iac.com/        category_code:web    number_of_employees:null
+Company:AOL    homepage_url:http://www.aol.com        category_code:web    number_of_employees:8000
+Company:Limelight Networks    
+Company:Judys Book    homepage_url:null        category_code:null    number_of_employees:null
+Company:Snapfish    homepage_url:http://snapfish.com        category_code:network_hosting    number_of_employees:null
+Company:Hewlett-Packard    homepage_url:http://www.hp.com        category_code:web    number_of_employees:null
+Company:ezRez Software    
+Company:Affinity Circles    
+Company:Barbie Girls    
+Company:Mattel    homepage_url:http://www.mattel.com        category_code:web    number_of_employees:null
+Company:Kaneva    homepage_url:http://www.kaneva.com        category_code:web    number_of_employees:null
+Company:IMVU    homepage_url:http://imvu.com        category_code:web    number_of_employees:60
+Company:TechStars    homepage_url:http://techstars.org        category_code:web    number_of_employees:null
+Company:madKast    homepage_url:http://www.madkast.com        category_code:web    number_of_employees:null
+Company:Nirvanix    homepage_url:http://www.nirvanix.com        category_code:network_hosting    number_of_employees:null
+Company:Userplane    homepage_url:http://www.userplane.com        category_code:public_relations    number_of_employees:10
+Company:Habit Industries    
+Company:Red Light Center    
+Company:Outdoorzy    homepage_url:http://www.outdoorzy.com        category_code:network_hosting    number_of_employees:2
+Company:Scrybe    homepage_url:http://iscrybe.com        category_code:web    number_of_employees:null
+Company:Aniboom    homepage_url:http://aniboom.com        category_code:games_video    number_of_employees:25
+Company:Meetro    homepage_url:http://www.meetro.com        category_code:web    number_of_employees:null
+Company:Webkinz    homepage_url:http://www.webkinz.com/        category_code:web    number_of_employees:8657
+Company:Zwinky    homepage_url:http://www.zwinky.com        category_code:web    number_of_employees:2
+Company:MyToons    homepage_url:http://www.mytoons.com        category_code:games_video    number_of_employees:null
+Company:Makena Technologies    
+Company:Mokitown    homepage_url:http://www.mokitown.com        category_code:web    number_of_employees:null
+Company:Active Worlds    
+Company:Sulake    homepage_url:http://www.sulake.com        category_code:web    number_of_employees:null
+Company:Habbo    
+Company:Neopets    homepage_url:http://www.neopets.com        category_code:web    number_of_employees:null
+Company:Gaia    homepage_url:http://www.gaiaonline.com        category_code:games_video    number_of_employees:null
+Company:Dubit    homepage_url:http://www.dubitchat.com        category_code:web    number_of_employees:30
+Company:Viagogo    homepage_url:http://www.viagogo.com        category_code:ecommerce    number_of_employees:null
+Company:KnockaTV    homepage_url:http://knockatv.com        category_code:games_video    number_of_employees:null
+Company:Faketown    homepage_url:http://www.faketown.com/        category_code:web    number_of_employees:null
+Company:Millsberri    
+Company:General Mills    
+Company:Echo    homepage_url:http://www.aboutecho.com/        category_code:enterprise    number_of_employees:30
+Company:GreatCall    homepage_url:http://www.greatcall.com        category_code:mobile    number_of_employees:null
+Company:INgage Networks    homepage_url:http://www.ingagenetworks.com        category_code:software    number_of_employees:100
+Company:Omnifuse    homepage_url:http://omnifuse.com/        category_code:web    number_of_employees:4
+Company:Pickle    homepage_url:http://www.pickle.com        category_code:web    number_of_employees:null
+Company:Incando Corporation    
+Company:News Corporation    
+Company:Strayform    homepage_url:http://strayform.com        category_code:games_video    number_of_employees:null
+Company:Polar Rose    
+Company:Pringo    
+Company:Mzinga [Prospero Technologies]    
+Company:SelectMinds    homepage_url:http://www.selectminds.com        category_code:network_hosting    number_of_employees:55
+Company:Revver    homepage_url:http://revver.com        category_code:games_video    number_of_employees:null
+Company:HireAHelper    homepage_url:http://www.HireAHelper.com        category_code:web    number_of_employees:12
+Company:Metacafe    homepage_url:http://metacafe.com        category_code:games_video    number_of_employees:null
+Company:Diet TV    
+Company:MindTouch    homepage_url:http://www.mindtouch.com        category_code:enterprise    number_of_employees:0
+Company:ChaCha    homepage_url:http://www.chacha.com        category_code:search    number_of_employees:70
+Company:Flock    homepage_url:http://flock.com        category_code:web    number_of_employees:40
+Company:Small World Labs    
+Company:Social Platform    homepage_url:http://www.socialplatform.com/        category_code:web    number_of_employees:12
+Company:Sparta Social Networks    
+Company:Telligent Systems    
+Company:VMIX Media    
+Company:webcrossing    homepage_url:http://www.webcrossing.com        category_code:web    number_of_employees:10
+Company:Webligo Developments    
+Company:Web Scribble Solutions    
+Company:Kontera    homepage_url:http://kontera.com        category_code:advertising    number_of_employees:null
+Company:Crowd Factory    
+Company:ThePort Network    
+Company:Sportingo    homepage_url:http://www.sportingo.com        category_code:web    number_of_employees:0
+Company:Akamai    homepage_url:http://www.akamai.com        category_code:web    number_of_employees:1000
+Company:Dropbox    homepage_url:http://www.dropbox.com        category_code:web    number_of_employees:55
+Company:Splashup    homepage_url:http://www.splashup.com        category_code:web    number_of_employees:null
+Company:Anywhere.FM    
+Company:Curverider    homepage_url:http://elgg.com        category_code:network_hosting    number_of_employees:5
+Company:MobiTV    homepage_url:http://mobitv.com        category_code:games_video    number_of_employees:260
+Company:TimeBridge    homepage_url:http://www.timebridge.com/        category_code:web    number_of_employees:null
+Company:Yoomba    homepage_url:http://www.yoomba.com        category_code:web    number_of_employees:null
+Company:Negonation    homepage_url:http://www.negonation.com        category_code:web    number_of_employees:3
+Company:Snocap    homepage_url:http://snocap.com        category_code:games_video    number_of_employees:null
+Company:IODA    homepage_url:http://iodalliance.com        category_code:games_video    number_of_employees:null
+Company:SomethingSimpler    homepage_url:http://www.somethingsimpler.com/        category_code:search    number_of_employees:null
+Company:TokBox    homepage_url:http://www.tokbox.com        category_code:software    number_of_employees:21
+Company:Jimdo    homepage_url:http://www.jimdo.com        category_code:web    number_of_employees:60
+Company:YellowBot    homepage_url:http://www.yellowbot.com/        category_code:search    number_of_employees:null
+Company:Solfo    homepage_url:http://www.solfo.com        category_code:search    number_of_employees:null
+Company:MDJunction    homepage_url:http://www.mdjunction.com        category_code:web    number_of_employees:2
+Company:Sampa    homepage_url:http://www.sampa.com        category_code:web    number_of_employees:4
+Company:Six Apart    homepage_url:http://www.sixapart.com        category_code:web    number_of_employees:150
+Company:Weebly    homepage_url:http://www.weebly.com        category_code:web    number_of_employees:null
+Company:Yola     homepage_url:http://www.yola.com        category_code:web    number_of_employees:85
+Company:incuBeta    homepage_url:        category_code:web    number_of_employees:null
+Company:RealEditor    homepage_url:http://realeditor.com        category_code:web    number_of_employees:2
+Company:BitTorrent    homepage_url:http://www.bittorrent.com/        category_code:web    number_of_employees:40
+Company:Kongregate    homepage_url:http://kongregate.com        category_code:games_video    number_of_employees:20
+Company:DanceJam    homepage_url:http://dancejam.com        category_code:games_video    number_of_employees:0
+Company:innerActive    homepage_url:http://www.inner-active.com        category_code:advertising    number_of_employees:0
+Company:Sleep.FM    
+Company:Xoom    homepage_url:http://xoom.com        category_code:web    number_of_employees:65
+Company:EventVue    homepage_url:http://www.eventvue.com        category_code:public_relations    number_of_employees:null
+Company:Socialthing    homepage_url:http://www.socialthing.com        category_code:network_hosting    number_of_employees:5
+Company:J Squared Media    
+Company:Search to Phone    
+Company:Villij    homepage_url:http://www.villij.com        category_code:web    number_of_employees:null
+Company:Filtrbox    homepage_url:http://www.jivesoftware.com        category_code:web    number_of_employees:14
+Company:KB Labs    
+Company:Brightkite    homepage_url:http://www.brightkite.com        category_code:mobile    number_of_employees:10
+Company:Bountii    homepage_url:http://bountii.com        category_code:ecommerce    number_of_employees:null
+Company:Eventbee    homepage_url:http://www.eventbee.com        category_code:web    number_of_employees:null
+Company:SlapVid    homepage_url:http://slapvid.com        category_code:games_video    number_of_employees:null
+Company:Cloudant    homepage_url:http://cloudant.com        category_code:network_hosting    number_of_employees:6
+Company:Veotag    homepage_url:http://veotag.com        category_code:web    number_of_employees:null
+Company:Guba    homepage_url:http://www.guba.com        category_code:web    number_of_employees:null
+Company:GoFish    homepage_url:http://gofishcorp.com        category_code:games_video    number_of_employees:null
+Company:KIT digital    homepage_url:http://www.kitd.com        category_code:enterprise    number_of_employees:200
+Company:Kiva    homepage_url:http://kiva.org        category_code:web    number_of_employees:null
+Company:Digitalsmiths    homepage_url:http://digitalsmiths.com        category_code:software    number_of_employees:48
+Company:PartnerUp    homepage_url:http://www.partnerup.com/        category_code:web    number_of_employees:0
+Company:Sun Microsystems    homepage_url:http://www.sun.com/        category_code:enterprise    number_of_employees:33350
+Company:Pixsy    homepage_url:http://pixsy.com        category_code:games_video    number_of_employees:null
+Company:Zopa    homepage_url:http://www.zopa.com        category_code:web    number_of_employees:null
+Company:Fathom Online    homepage_url:http://fathomonline.com        category_code:advertising    number_of_employees:null
+Company:Hitwise    homepage_url:http://hitwise.com        category_code:web    number_of_employees:null
+Company:Jambo    homepage_url:        category_code:web    number_of_employees:null
+Company:Zivity    homepage_url:http://zivity.com/        category_code:network_hosting    number_of_employees:16
+Company:SuicideGirls    homepage_url:http://suicidegirls.com/        category_code:web    number_of_employees:null
+Company:BlueLithium    homepage_url:http://www.bluelithium.com/        category_code:advertising    number_of_employees:135
+Company:ContextWeb    homepage_url:http://www.contextweb.com/        category_code:advertising    number_of_employees:null
+Company:Datran Media    
+Company:MediaMind    homepage_url:http://www.mediamind.com/        category_code:advertising    number_of_employees:null
+Company:eXpresso    homepage_url:http://www.expressocorp.com/        category_code:public_relations    number_of_employees:null
+Company:Goowy    homepage_url:http://www.goowy.com        category_code:web    number_of_employees:null
+Company:MySpace    homepage_url:http://myspace.com        category_code:network_hosting    number_of_employees:800
+Company:InviteShare    homepage_url:http://www.inviteshare.com        category_code:public_relations    number_of_employees:null
+Company:Jooce    homepage_url:http://jooce.com        category_code:web    number_of_employees:null
+Company:A9    homepage_url:http://A9.com        category_code:web    number_of_employees:null
+Company:Doostang    homepage_url:http://www.doostang.com/        category_code:web    number_of_employees:10
+Company:TechCrunch    homepage_url:http://www.techcrunch.com        category_code:public_relations    number_of_employees:null
+Company:JumpTV    homepage_url:http://jumptv.com        category_code:games_video    number_of_employees:null
+Company:G.ho.st    
+Company:Helium    homepage_url:http://helium.com        category_code:web    number_of_employees:null
+Company:Saw-You    homepage_url:http://saw-you.com        category_code:web    number_of_employees:null
+Company:Conduit Labs    
+Company:ZoomInfo    homepage_url:http://www.zoominfo.com        category_code:search    number_of_employees:800
+Company:Zappos    homepage_url:http://www.zappos.com        category_code:web    number_of_employees:1500
+Company:Zango    homepage_url:http://www.zango.com/        category_code:games_video    number_of_employees:225
+Company:Affinity.com    
+Company:gBox    homepage_url:http://gbox.com        category_code:web    number_of_employees:20
+Company:Docstoc    homepage_url:http://www.docstoc.com        category_code:web    number_of_employees:null
+Company:Vlingo    homepage_url:http://www.vlingo.com        category_code:mobile    number_of_employees:null
+Company:Awareness    homepage_url:http://www.awarenessnetworks.com/home/        category_code:software    number_of_employees:50
+Company:ZYB    homepage_url:http://zyb.com/        category_code:mobile    number_of_employees:25
+Company:DotBlu    homepage_url:http://www.dotblu.com        category_code:web    number_of_employees:null
+Company:Covestor    homepage_url:http://www.covestor.com        category_code:web    number_of_employees:null
+Company:Mevio    homepage_url:http://mevio.com        category_code:games_video    number_of_employees:null
+Company:PureVideo Networks    
+Company:Ruckus    homepage_url:http://www.ruckusnetwork.com/        category_code:games_video    number_of_employees:null
+Company:Cdigix    homepage_url:http://www.cdigix.com/        category_code:web    number_of_employees:null
+Company:Simple Star    
+Company:NewsGator    homepage_url:http://www.newsgator.com        category_code:enterprise    number_of_employees:null
+Company:Pluck    homepage_url:        category_code:web    number_of_employees:null
+Company:FilmLoop    homepage_url:        category_code:web    number_of_employees:null
+Company:BitPass    homepage_url:        category_code:web    number_of_employees:null
+Company:Alibaba    homepage_url:http://www.alibaba.com/        category_code:ecommerce    number_of_employees:null
+Company:Kelkoo    homepage_url:http://kelkoo.com        category_code:ecommerce    number_of_employees:null
+Company:Musicmatch    homepage_url:http://new.music.yahoo.com/        category_code:web    number_of_employees:null
+Company:sezmi    homepage_url:http://www.sezmi.com        category_code:games_video    number_of_employees:null
+Company:Art.com    
+Company:Atom Entertainment    homepage_url:http://atomentertainment.com        category_code:web    number_of_employees:null
+Company:CinemaNow    homepage_url:http://cinemanow.com        category_code:web    number_of_employees:null
+Company:Global Grind    
+Company:Digital Chocolate    
+Company:eHarmony    homepage_url:http://eharmony.com        category_code:web    number_of_employees:null
+Company:Friendster    homepage_url:http://www.friendster.com        category_code:web    number_of_employees:70
+Company:Heavy    homepage_url:http://heavy.com        category_code:web    number_of_employees:null
+Company:Nielsen    homepage_url:http://nielsen.com        category_code:web    number_of_employees:null
+Company:Buzzmetrics    homepage_url:http://www.nielsenbuzzmetrics.com/        category_code:web    number_of_employees:null
+Company:MusicGremlin    homepage_url:http://go.shopsansa.com/default.aspx        category_code:hardware    number_of_employees:null
+Company:Orb Networks    
+Company:Exabre    homepage_url:http://www.exabre.com/        category_code:web    number_of_employees:null
+Company:The Filter    
+Company:ReachLocal    homepage_url:http://www.reachlocal.com        category_code:advertising    number_of_employees:1300
+Company:Greystripe    homepage_url:http://greystripe.com        category_code:advertising    number_of_employees:35
+Company:SHOP.COM    
+Company:Sling Media    
+Company:Trulia    homepage_url:http://trulia.com        category_code:search    number_of_employees:175
+Company:WeatherBug    homepage_url:        category_code:web    number_of_employees:null
+Company:Lending Club    
+Company:WhiteBlox    homepage_url:http://www.whiteblox.com        category_code:web    number_of_employees:null
+Company:Narrowstep    homepage_url:        category_code:web    number_of_employees:null
+Company:Bix    homepage_url:http://bix.com        category_code:web    number_of_employees:null
+Company:Burnlounge    homepage_url:http://corp.burnlounge.com/        category_code:web    number_of_employees:null
+Company:Yeigo    homepage_url:http://www.yeigo.com        category_code:mobile    number_of_employees:0
+Company:DAVE Networks    homepage_url:http://www.davenw.com        category_code:web    number_of_employees:null
+Company:NexTag    homepage_url:http://www.nextag.com/        category_code:web    number_of_employees:null
+Company:Netblue    homepage_url:        category_code:web    number_of_employees:null
+Company:The Active Network    
+Company:Avail Media    
+Company:TubeMogul    homepage_url:http://www.tubemogul.com        category_code:advertising    number_of_employees:50
+Company:TechTarget    homepage_url:http://www.techtarget.com/        category_code:enterprise    number_of_employees:null
+Company:Shopzilla    homepage_url:http://shopzilla.com        category_code:web    number_of_employees:null
+Company:E.W. Scripps    
+Company:Shopping.com    
+Company:dpreview    homepage_url:http://www.dpreview.com        category_code:web    number_of_employees:null
+Company:Sabre    homepage_url:http://sabre.com        category_code:web    number_of_employees:null
+Company:Lastminute    homepage_url:http://lastminute.com        category_code:web    number_of_employees:null
+Company:SpiralFrog    homepage_url:http://www.spiralfrog.com        category_code:games_video    number_of_employees:15
+Company:TripOvation    homepage_url:http://www.tripovation.com/        category_code:web    number_of_employees:null
+Company:Gemini Mobile Technologies    
+Company:MusicNet    homepage_url:http://Musicnet.com        category_code:web    number_of_employees:null
+Company:Multiverse    homepage_url:http://www.multiverse.net/        category_code:games_video    number_of_employees:null
+Company:Orbitz    homepage_url:http://orbitz.com        category_code:ecommerce    number_of_employees:null
+Company:Cendant    homepage_url:        category_code:web    number_of_employees:null
+Company:United Online    
+Company:Classmates.com    
+Company:Multiply    homepage_url:http://multiply.com        category_code:ecommerce    number_of_employees:null
+Company:Crowdstorm USA    
+Company:YellowPages    homepage_url:http://yellowpages.com        category_code:web    number_of_employees:null
+Company:Vtap    homepage_url:http://vtap.com        category_code:games_video    number_of_employees:null
+Company:AT\u0026T    
+Company:Seedcamp    homepage_url:http://seedcamp.com        category_code:consulting    number_of_employees:4
+Company:Sportsline    homepage_url:http://www.cbssports.com/        category_code:web    number_of_employees:264
+Company:Network Solutions    
+Company:Modem Media    
+Company:Digitas    homepage_url:http://www.digitas.com        category_code:web    number_of_employees:null
+Company:Webshots    homepage_url:http://webshots.com        category_code:games_video    number_of_employees:null
+Company:LimeLife    homepage_url:http://www.limelife.com        category_code:web    number_of_employees:null
+Company:Advertising.com    
+Company:CTS Media    
+Company:OpenTable    homepage_url:http://opentable.com        category_code:web    number_of_employees:300
+Company:Tickle    homepage_url:http://tickle.com        category_code:web    number_of_employees:null
+Company:JobPilot    homepage_url:http://jobpilot.com        category_code:web    number_of_employees:null
+Company:Espotting    homepage_url:http://espotting.com        category_code:advertising    number_of_employees:250
+Company:MIVA    homepage_url:http://www.miva.com        category_code:advertising    number_of_employees:null
+Company:mocospace    homepage_url:http://www.mocospace.com        category_code:games_video    number_of_employees:25
+Company:Adknowledge    homepage_url:http://adknowledge.com        category_code:advertising    number_of_employees:220
+Company:Burst Media    
+Company:aka-aki networks    
+Company:Casale Media    
+Company:Tribal Fusion    homepage_url:null        category_code:null    number_of_employees:null
+Company:Third Screen Media    
+Company:LocaModa    homepage_url:http://www.locamoda.com        category_code:web    number_of_employees:14
+Company:Rooftop Media    
+Company:MuleSoft    
+Company:airG    homepage_url:http://airg.com        category_code:mobile    number_of_employees:180
+Company:Federated Media    
+Company:YouBeQB    homepage_url:http://youbeqb.com        category_code:games_video    number_of_employees:8
+Company:eMusic    homepage_url:http://emusic.com        category_code:games_video    number_of_employees:null
+Company:Vivendi Universal    
+Company:RampedMedia    homepage_url:http://www.ramped.com/        category_code:web    number_of_employees:6
+Company:ChannelAdvisor    homepage_url:http://www.channeladvisor.com/        category_code:search    number_of_employees:300
+Company:Yap    homepage_url:http://www.yapinc.com        category_code:mobile    number_of_employees:null
+Company:Frazr    homepage_url:http://frazr.com/        category_code:web    number_of_employees:null
+Company:Tizra    homepage_url:http://tizra.com/        category_code:enterprise    number_of_employees:null
+Company:PunchStock    homepage_url:http://www.PunchStock.com        category_code:web    number_of_employees:null
+Company:Getty Images    
+Company:Delivery Agent    
+Company:GoChongo    homepage_url:http://www.gochongo.com/        category_code:web    number_of_employees:null
+Company:Minglebox    homepage_url:http://www.minglebox.com/        category_code:web    number_of_employees:null
+Company:MyZimu    homepage_url:http://www.myzimu.com/        category_code:web    number_of_employees:null
+Company:Signal Patterns    
+Company:TestFreaks    homepage_url:http://www.testfreaks.com/        category_code:web    number_of_employees:null
+Company:Itiva    homepage_url:http://www.itiva.com/        category_code:web    number_of_employees:null
+Company:Quattro Wireless    homepage_url:http://www.quattrowireless.com/        category_code:advertising    number_of_employees:null
+Company:BlogSigs    homepage_url:http://www.blogsigs.com/        category_code:web    number_of_employees:null
+Company:VideoJug    homepage_url:http://www.videojug.com/        category_code:web    number_of_employees:null
+Company:Punchbowl    
+Company:Ripl    homepage_url:http://ripl.com        category_code:network_hosting    number_of_employees:null
+Company:BBE    homepage_url:http://bbe.com        category_code:advertising    number_of_employees:null
+Company:Community Connect    
+Company:glu    homepage_url:http://glu.com        category_code:games_video    number_of_employees:null
+Company:nellymoser    homepage_url:http://nellymoser.com        category_code:web    number_of_employees:null
+Company:MyLife.com    
+Company:Tacoda    homepage_url:http://tacoda.com        category_code:web    number_of_employees:null
+Company:Thumbplay    homepage_url:http://www.thumbplay.com        category_code:mobile    number_of_employees:70
+Company:Waterfront Media    
+Company:Fotolog    homepage_url:http://www.fotolog.com        category_code:network_hosting    number_of_employees:40
+Company:Y2M    homepage_url:http://www.y2m.com        category_code:advertising    number_of_employees:null
+Company:Sconex    homepage_url:http://sconex.com        category_code:web    number_of_employees:null
+Company:Lycos    homepage_url:http://www.lycos.com/        category_code:web    number_of_employees:null
+Company:Xfire    homepage_url:http://www.xfire.com        category_code:games_video    number_of_employees:null
+Company:MyOfferPal    homepage_url:http://www.myofferpal.com        category_code:web    number_of_employees:null
+Company:Alloy    homepage_url:http://www.alloymarketing.com        category_code:web    number_of_employees:null
+Company:iVillage    homepage_url:http://ivillage.com        category_code:web    number_of_employees:null
+Company:Mixercast    homepage_url:http://www.mixercast.com/        category_code:web    number_of_employees:1
+Company:GTX Global    
+Company:Wonga    homepage_url:https://www.wonga.com/        category_code:web    number_of_employees:null
+Company:Tungle.me    
+Company:Yadio    homepage_url:        category_code:web    number_of_employees:null
+Company:Hi Media    homepage_url:http://www.hi-media.com        category_code:advertising    number_of_employees:500
+Company:ITV    homepage_url:        category_code:web    number_of_employees:null
+Company:Friends Reunited    
+Company:IGN Entertainment    
+Company:SnapTell    homepage_url:http://www.snaptell.com        category_code:software    number_of_employees:null
+Company:Intermix Media    
+Company:Primedia    homepage_url:http://www.primedia.com        category_code:web    number_of_employees:null
+Company:Tradera    homepage_url:http://tradera.com        category_code:web    number_of_employees:null
+Company:Trade Me    
+Company:Care.com    
+Company:Marchex    homepage_url:http://www.marchex.com/        category_code:web    number_of_employees:null
+Company:Open List    
+Company:Tutor    homepage_url:http://www.tutor.com        category_code:web    number_of_employees:55
+Company:uSwitch    homepage_url:http://www.uswitch.com        category_code:web    number_of_employees:null
+Company:dMarc Broadcasting    
+Company:GUS plc    
+Company:PriceGrabber    homepage_url:http://pricegrabber.com        category_code:web    number_of_employees:null
+Company:MicroPlace    homepage_url:http://www.microplace.com/        category_code:web    number_of_employees:15
+Company:EyeJot    homepage_url:http://www.eyejot.com        category_code:web    number_of_employees:5
+Company:mTraks    homepage_url:http://www.mtraks.com/        category_code:web    number_of_employees:null
+Company:GeoIQ    
+Company:Spiceworks    homepage_url:http://www.spiceworks.com/        category_code:software    number_of_employees:null
+Company:iJigg.com    
+Company:MyHeritage    homepage_url:http://www.myheritage.com/        category_code:web    number_of_employees:null
+Company:Mesa Dynamics    
+Company:Contrastream    homepage_url:http://contrastream.com        category_code:games_video    number_of_employees:1
+Company:Videohybrid    homepage_url:http://videohybrid.com        category_code:games_video    number_of_employees:2
+Company:Finetune    homepage_url:http://finetune.com        category_code:games_video    number_of_employees:null
+Company:Collagr    homepage_url:http://www.collagr.com        category_code:web    number_of_employees:2
+Company:CircleLending    homepage_url:http://www.circlelending.com/        category_code:web    number_of_employees:null
+Company:Virgin USA    
+Company:OnForce    homepage_url:http://www.onforce.com        category_code:ecommerce    number_of_employees:null
+Company:Maya's Mom    
+Company:Xora    homepage_url:http://www.xora.com/        category_code:mobile    number_of_employees:null
+Company:OMGPOP    homepage_url:http://omgpop.com        category_code:games_video    number_of_employees:30
+Company:Ooyala    homepage_url:http://www.ooyala.com/        category_code:games_video    number_of_employees:null
+Company:Daylife    homepage_url:http://www.daylife.com/        category_code:enterprise    number_of_employees:25
+Company:CrowdSpirit    homepage_url:http://www.crowdspirit.com        category_code:web    number_of_employees:3
+Company:SayNow    homepage_url:http://www.saynow.com        category_code:web    number_of_employees:20
+Company:Crunchyroll    homepage_url:http://www.crunchyroll.com/        category_code:games_video    number_of_employees:20
+Company:GreenBorder    homepage_url:http://www.greenborder.com/        category_code:web    number_of_employees:null
+Company:CircleUp    homepage_url:http://circleup.com        category_code:software    number_of_employees:15
+Company:PixSense    homepage_url:http://pixsense.com        category_code:mobile    number_of_employees:35
+Company:Danal    homepage_url:http://www.danalcorp.com/        category_code:mobile    number_of_employees:null
+Company:ContactOffice    homepage_url:http://www.contactoffice.com        category_code:web    number_of_employees:10
+Company:BrightSpot.tv    
+Company:Behance    homepage_url:http://www.behance.net        category_code:web    number_of_employees:18
+Company:Magnify    homepage_url:http://magnify.net        category_code:games_video    number_of_employees:null
+Company:Yugma    homepage_url:http://www.yugma.com        category_code:games_video    number_of_employees:38
+Company:Myndnet    homepage_url:https://www.myndnet.com/        category_code:web    number_of_employees:null
+Company:Glimpse    homepage_url:http://glimpse.com/        category_code:ecommerce    number_of_employees:null
+Company:ThemBid    homepage_url:http://www.thembid.com/        category_code:ecommerce    number_of_employees:7
+Company:hulu    homepage_url:https://www.hulu.com/        category_code:public_relations    number_of_employees:153
+Company:OurStory    homepage_url:http://ourstory.com        category_code:web    number_of_employees:null
+Company:Story of My Life    
+Company:Specificmedia    
